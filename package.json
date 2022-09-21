@@ -1,0 +1,20 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "<a href=\"https://fahadjrdev.github.io/Background-Generator\" target=\"_blank\">Background-Generator</a>",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahadJrdev/Background-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FahadJrdev/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/FahadJrdev/Background-Generator#readme"
+}
